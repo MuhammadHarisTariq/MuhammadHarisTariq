@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Haris Tariq</h1>
-<h3 align="center">Software Engineer | Cross-Platform App Developer | Skilled in <a href="https://flutter.dev" target="_blank">Flutter</a>, <a href="https://firebase.google.com" target="_blank">Firebase</a>, Dart, Python, Java</h3>
+<h3 align="center">Software Engineer | Cross-Platform App Developer | I am a developer skilled in <a href="https://flutter.dev" target="_blank">Flutter</a>, <a href="https://firebase.google.com" target="_blank">Firebase</a>, Dart, Python, Java</h3>
 
 ---
 
@@ -30,9 +30,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> 
-  </a> 
   <a href="https://flutter.dev" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/> 
   </a> 
@@ -44,6 +41,9 @@
   </a> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
+  </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> 
   </a> 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> 

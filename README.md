@@ -1,14 +1,21 @@
 <h1 align="center">Hi 👋, I'm Muhammad Haris Tariq</h1>
-<h3 align="center">Aspiring SQA Engineer | Manual & Automation Testing | Ex-Flutter Developer</h3>
+<h3 align="center">SQA Engineer | Flutter Developer | Building Quality Software Across the Testing & Development Lifecycle</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MuhammadHarisTariq&label=Profile%20Views&color=0e75b6&style=flat" alt="Muhammad Haris Tariq" />
+</p>
 
 ---
 
-- 🔍 Currently focused on **Software Quality Assurance** — manual testing, test case design, bug reporting, and Selenium WebDriver automation
-- 🧪 Built SQA portfolio projects covering **Magento, OpenCart, SauceDemo, and Pakistan Post** (heuristic evaluation)
-- 📱 Background in **cross-platform app development** with Flutter, Dart, and Firebase
-- 🌱 Currently a 3rd-year BS Computer Science student at UBIT, University of Karachi
+### 👨‍💻 About Me
+
+- 🔍 **Software Quality Assurance Engineer** with hands-on experience in manual testing, test case design, bug reporting, and Selenium WebDriver automation
+- 📱 **Flutter Developer** experienced in building cross-platform mobile applications with Dart, Firebase, and REST API integration
+- 🧪 Delivered SQA portfolio projects across **Magento, OpenCart, SauceDemo**, and a Nielsen Heuristic Evaluation of **Pakistan Post**
+- 🎓 3rd-year BS Computer Science student at UBIT, University of Karachi
+- 🌱 Currently deepening expertise in test automation frameworks and QA best practices
 - 📫 Reach me at: **muhammadharistariq488@gmail.com**
-- 💼 Hire me for mobile app development on <a href="https://www.upwork.com/freelancers/~01a558610df950505d?mp_source=share" target="_blank">Upwork</a>
+- 💼 Available for mobile app development on <a href="https://www.upwork.com/freelancers/~01a558610df950505d?mp_source=share" target="_blank">Upwork</a>
 
 ---
 
@@ -33,7 +40,9 @@
 
 ---
 
-<h3 align="left">SQA Tools & Skills:</h3>
+### 🛠️ Skills & Tools
+
+**SQA — Testing & Automation**
 <p align="left">
   <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="Selenium" width="40" height="40"/>
@@ -52,7 +61,7 @@
   </a>
 </p>
 
-<h3 align="left">Development Languages & Tools:</h3>
+**Development — Languages & Frameworks**
 <p align="left">
   <a href="https://flutter.dev" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/> 
@@ -73,9 +82,20 @@
 
 ---
 
-<h3 align="left">Featured SQA Projects:</h3>
+### 📌 Featured Projects
 
-- 🧾 **[Magento E-commerce Manual Testing](https://github.com/MuhammadHarisTariq)** — 100 test cases across 10 modules, 6 documented bug reports
-- 🛒 **[SauceDemo Selenium Automation](https://github.com/MuhammadHarisTariq)** — 20 automated test cases covering Login, Products, Cart, and Checkout
-- 🛍️ **[OpenCart Manual Testing](https://github.com/MuhammadHarisTariq/opencart-manual-testing)** — Login and Sign Up module test coverage
-- 📮 **Pakistan Post Heuristic Evaluation** — Usability audit based on Nielsen's 10 Heuristics
+| Project | Description |
+|---|---|
+| 🧾 **[Magento E-commerce Manual Testing](https://github.com/MuhammadHarisTariq)** | 100 test cases across 10 modules, 6 documented bug reports |
+| 🛒 **[SauceDemo Selenium Automation](https://github.com/MuhammadHarisTariq)** | 20 automated test cases covering Login, Products, Cart, and Checkout |
+| 🛍️ **[OpenCart Manual Testing](https://github.com/MuhammadHarisTariq/opencart-manual-testing)** | Login and Sign Up module test coverage |
+| 📮 **Pakistan Post Heuristic Evaluation** | Usability audit based on Nielsen's 10 Heuristics |
+
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadHarisTariq&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Muhammad Haris Tariq's GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadHarisTariq&hide_border=true" alt="Muhammad Haris Tariq's GitHub Streak" height="165"/>
+</p>

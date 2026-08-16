@@ -1,101 +1,18 @@
-<h1 align="center">Hi 👋, I'm Muhammad Haris Tariq</h1>
-<h3 align="center">SQA Engineer | Flutter Developer | Building Quality Software Across the Testing & Development Lifecycle</h3>
+# 💫 About Me:
+Quality isn't an afterthought for me, it's where I start. SQA Engineer working across manual and automation testing, and a Flutter developer who knows what it's like to be on the other side of a bug report.<br><br>🎓 Bachelor of Science in Computer Science, University of Karachi (UBIT)<br><br>🔍 Manual Testing<br>94% pass coverage testing a live Magento e-commerce platform, with documented bugs and root cause analysis<br>100% module coverage across OpenCart's Login and Sign Up flows, uncovering a critical authentication bypass bug<br>Nielsen heuristic evaluation on Pakistan Post's website, full coverage across all usability categories<br><br>🤖 Automation<br>Built a complete Selenium + Java + TestNG framework for OrangeHRM from scratch, 83% first-run pass rate across 8 modules<br>Selenium + Java automation suite for SauceDemo, 100% coverage of critical e-commerce flows<br>Data-driven testing with Apache POI, cutting manual regression effort significantly<br>Allure reporting with automatic failure screenshots for faster debugging<br><br>📱 Flutter Development<br>Yappr, COVID Tracker, Quiz Mate, built with Firebase, REST APIs, and Dart<br><br>🎓 Certifications<br>QA Fundamentals, 10Pearls University<br>Flutter Development, NAVTTC<br>Python for Data Science, AI and Development, IBM<br>Generative AI Learning Path, Google Cloud Skills Boost<br>AI Essentials and Prompting Essentials, Google<br>Object Oriented Programming in C++, University of London<br>SQL and Database Structures, Meta and DataCamp<br>Data Analysis with Microsoft Excel, Microsoft<br><br>📍 Based in Karachi, open to SQA and Flutter development roles
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MuhammadHarisTariq&label=Profile%20Views&color=0e75b6&style=flat" alt="Muhammad Haris Tariq" />
-</p>
 
----
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/uS3UKejxA) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/MuhammadHarisTariq309) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/m_haris_tariq) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mharistariq309) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/M-Haris-Tariq) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/mharistariq309) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:muhammadharistariq488@gmail.com) 
 
-### 👨‍💻 About Me
-
-- 🔍 **Software Quality Assurance Engineer** with hands-on experience in manual testing, test case design, bug reporting, and Selenium WebDriver automation
-- 📱 **Flutter Developer** experienced in building cross-platform mobile applications with Dart, Firebase, and REST API integration
-- 🧪 Delivered SQA portfolio projects across **Magento, OpenCart, SauceDemo**, and a Nielsen Heuristic Evaluation of **Pakistan Post**
-- 🎓 3rd-year BS Computer Science student at UBIT, University of Karachi
-- 🌱 Currently deepening expertise in test automation frameworks and QA best practices
-- 📫 Reach me at: **muhammadharistariq488@gmail.com**
-- 💼 Available for mobile app development on <a href="https://www.upwork.com/freelancers/~01a558610df950505d?mp_source=share" target="_blank">Upwork</a>
+# 💻 Tech Stack:
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=MuhammadHarisTariq&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=MuhammadHarisTariq&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=MuhammadHarisTariq&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://komarev.com/ghpvc/?username=MuhammadHarisTariq&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/mharistariq309" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
-  </a>
-  <a href="https://fb.com/muhammadharistariq309" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="40" width="40" />
-  </a>
-  <a href="https://instagram.com/muhammadharistariq.exe" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" />
-  </a>
-  <a href="https://twitter.com/mharistariq309" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="40" width="40" />
-  </a>
-  <a href="https://www.leetcode.com/muhammadharistariq" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="40" width="40" />
-  </a>
-</p>
-
----
-
-### 🛠️ Skills & Tools
-
-**SQA — Testing & Automation**
-<p align="left">
-  <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="Selenium" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  </a>
-  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" width="40" height="40"/>
-  </a>
-  <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  </a>
-</p>
-
-**Development — Languages & Frameworks**
-<p align="left">
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/> 
-  </a> 
-  <a href="https://firebase.google.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/> 
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> 
-  </a> 
-</p>
-
----
-
-### 📌 Featured Projects
-
-| Project | Description |
-|---|---|
-| 🧾 **[Magento E-commerce Manual Testing](https://github.com/MuhammadHarisTariq)** | 100 test cases across 10 modules, 6 documented bug reports |
-| 🛒 **[SauceDemo Selenium Automation](https://github.com/MuhammadHarisTariq)** | 20 automated test cases covering Login, Products, Cart, and Checkout |
-| 🛍️ **[OpenCart Manual Testing](https://github.com/MuhammadHarisTariq/opencart-manual-testing)** | Login and Sign Up module test coverage |
-| 📮 **Pakistan Post Heuristic Evaluation** | Usability audit based on Nielsen's 10 Heuristics |
-
----
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadHarisTariq&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Muhammad Haris Tariq's GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadHarisTariq&hide_border=true" alt="Muhammad Haris Tariq's GitHub Streak" height="165"/>
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

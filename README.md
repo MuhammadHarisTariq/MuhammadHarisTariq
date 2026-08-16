@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 B.S. in Computer Science, University of Karachi, Pakistan<br>🔍 SQA Engineer with hands-on experience in manual and automation testing<br>📱 Flutter Developer building cross-platform mobile apps<br>📍 Based in Karachi, Pakistan, open to SQA and Flutter development roles
+🎓 B.S. in Computer Science, University of Karachi<br>🔍 SQA Engineer with hands-on experience in manual and automation testing<br>📱 Flutter Developer building cross-platform mobile apps<br>📍 Based in Karachi, Pakistan, open to SQA and Flutter development roles
 
 
 ## 🌐 Socials:
